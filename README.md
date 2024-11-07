@@ -1,5 +1,5 @@
 # Damn Vulnerable C# Application (API Only)
-# creating for testing purpose 
+# for testing purpose
 ## Getting Started assuance
 
 checking PR
